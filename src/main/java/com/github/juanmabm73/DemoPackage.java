@@ -4,9 +4,9 @@ package com.github.juanmabm73;
  * Hello world!
  *
  */
-public class App 
+public class DemoPackage
 {
-    public static void main( String[] args )
+    public static void messageFromLibrary( String[] args )
     {
         System.out.println( "Demo github packages calidad del software" );
     }
