@@ -11,3 +11,6 @@ public class App
         System.out.println( "Demo github packages calidad del software" );
     }
 }
+
+
+// mvn deploy -DskipTests --settings C:\maven-config\settings.xml
